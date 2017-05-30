@@ -39,10 +39,18 @@ const tableStyle = {
   marginLeft: '1px'
 };
 
-export default function PanelLayers({state: {scene, mode}}, {sceneActions, translator}) {
+export default function PanelLayers({state: {scene, mode}}, {sceneActions, itemsActions, translator}) {
 
   let addClick = event => {
     sceneActions.addLayer();
+    event.stopPropagation();
+  };
+
+
+  let addItemClick = event => {
+    console.log("this is PanelLayers.addBoxClick");
+    itemsActions.addBox("layer-1");
+
     event.stopPropagation();
   };
 
@@ -100,6 +108,10 @@ export default function PanelLayers({state: {scene, mode}}, {sceneActions, trans
         <IconAdd />
         <span style={STYLE_ADD_LABEL}>{translator.t("New layer")}</span>
       </div>
+      <div style={STYLE_ADD_WRAPPER} onClick={addItemClick}>
+        <IconAdd />
+        <span style={STYLE_ADD_LABEL}>{"Add Box"}</span>
+      </div>
     </Panel>
   )
 
@@ -111,5 +123,6 @@ PanelLayers.propTypes = {
 
 PanelLayers.contextTypes = {
   sceneActions: PropTypes.object.isRequired,
+  itemsActions: PropTypes.object.isRequired,
   translator: PropTypes.object.isRequired,
 };

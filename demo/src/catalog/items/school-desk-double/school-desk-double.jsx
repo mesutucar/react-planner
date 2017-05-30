@@ -246,7 +246,7 @@ export default {
       new Three.MeshBasicMaterial({map: texture})
     ];
 
-    let tMaterial = new Three.MeshFaceMaterial(boxMaterials);
+    let tMaterial = new Three.MultiMaterial(boxMaterials);
 
     let plane = new Three.Mesh(geometry, tMaterial);
     plane.position.y = newHeight;

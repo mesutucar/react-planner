@@ -289,6 +289,9 @@ export class State extends Record({
   misc: new Map()   //additional info
 }, 'State') {
   constructor(json = {}) {
+
+    console.log(json);
+
     let scene = new Scene(json.scene);
     super({
       ...json,

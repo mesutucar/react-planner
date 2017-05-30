@@ -41,12 +41,21 @@ import {
 
 export default function (state, action) {
 
+  console.log("------------- PROJECT REDUCER ----- state:");
+  console.log(state);
+  //console.log("STATE:"+JSON.stringify(state.toJS()));
+  console.log("------------- PROJECT REDUCER ----- action:");
+  console.log(action);
+  console.log("-------------------------------------------");
+
+
   switch (action.type) {
 
     case NEW_PROJECT:
       return newProject(state);
 
     case LOAD_PROJECT:
+      console.log("project-reducer -> LOAD_PROJECT");
       return loadProject(state, action.sceneJSON);
 
     case OPEN_CATALOG:
@@ -95,8 +104,7 @@ export default function (state, action) {
 }
 
 function openCatalog(state) {
-  return rollback(state)
-    .set('mode', MODE_VIEWING_CATALOG);
+  return rollback(state).set('mode', MODE_VIEWING_CATALOG);
 }
 
 function newProject(state) {
@@ -110,6 +118,7 @@ function loadProject(state, sceneJSON) {
 
 function setProperties(state, properties) {
   let scene = state.scene;
+  console.log("** this is project-reducer.setProperties");
   scene = scene.set('layers', scene.layers.map(layer => setPropertiesOnSelected(layer, properties)));
   return state.merge({
     scene,
@@ -119,6 +128,7 @@ function setProperties(state, properties) {
 
 function setItemsAttributes(state, attributes) {
   let scene = state.scene;
+  console.log("** this is project-reducer.setItemsAttributes");
   scene = scene.set('layers', scene.layers.map(layer => setAttributesOnSelected(layer, attributes, state.catalog)));
   return state.merge({
     scene,

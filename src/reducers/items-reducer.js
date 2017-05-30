@@ -22,7 +22,13 @@ import {addItem, removeItem, unselect, select, unselectAll} from '../utils/layer
 import * as Geometry from '../utils/geometry';
 
 export default function (state, action) {
+
+  console.log("this is items-reducer. CASE = "+action.type);
+
   switch (action.type) {
+    case 'ADD_BOX':
+      return addBoxItem(state, action.layerID);
+
     case SELECT_ITEM:
       return selectItem(state, action.layerID, action.itemID);
 
@@ -56,6 +62,27 @@ export default function (state, action) {
     default:
       return state;
   }
+}
+
+function addBoxItem(state, layerID) {
+  console.log("************* OLDU ***************");
+  console.log("layerID : " + layerID);
+
+  let {drawingSupport, catalog} = state;
+  let x=400, y=500;
+
+  let scene = state.scene.updateIn(['layers', layerID], layer => layer.withMutations(layer => {
+      let {item} = addItem(layer, 'cube', x, y, 200, 100, 0, catalog);
+      drawingSupport = drawingSupport.set('currentID', item.id);
+  }));
+
+  return state.merge({
+    scene,
+    sceneHistory: state.sceneHistory.push(scene),
+    drawingSupport: Map({
+      type: state.drawingSupport.get('type')
+    })
+  });
 }
 
 function selectToolDrawingItem(state, sceneComponentType) {

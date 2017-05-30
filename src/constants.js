@@ -40,6 +40,7 @@ export const END_ROTATING_ITEM = 'END_ROTATING_ITEM';
 //ACTION drawings
 export const SELECT_HOLE = 'SELECT_HOLE';
 export const SELECT_AREA = 'SELECT_AREA';
+export const ADD_BOX = 'ADD_BOX';
 export const SELECT_ITEM = 'SELECT_ITEM';
 export const SELECT_LINE = 'SELECT_LINE';
 export const SELECT_TOOL_DRAWING_LINE = 'SELECT_TOOL_DRAWING_LINE';
@@ -106,6 +107,7 @@ export const VIEWER3D_ACTIONS = {
 };
 
 export const ITEMS_ACTIONS = {
+  ADD_BOX,
   SELECT_ITEM,
   SELECT_TOOL_DRAWING_ITEM,
   UPDATE_DRAWING_ITEM,

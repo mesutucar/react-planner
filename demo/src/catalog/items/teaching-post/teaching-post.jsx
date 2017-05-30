@@ -212,7 +212,7 @@ export default {
 
     let texture = new Three.TextureLoader().load(require('./wood.jpg'));
     let materialTexture = new Three.MeshLambertMaterial({map: texture});
-    let green = new Three.MeshBasicMaterial({color: 0x669966});
+    let green = new Three.MeshBasicMaterial({color: 0xbbbbbb});
 
 
     let cattedra = new Three.Object3D();
@@ -248,11 +248,11 @@ export default {
       new Three.MeshLambertMaterial({map: texture}),
       new Three.MeshLambertMaterial({map: texture}),
       new Three.MeshLambertMaterial({map: texture}),
-      new Three.MeshBasicMaterial({color: 0x669966}), //top
+      new Three.MeshBasicMaterial({color: 0xbbbbbb}), //top
       new Three.MeshLambertMaterial({map: texture})
     ];
 
-    let tMaterial = new Three.MeshFaceMaterial(boxMaterials);
+    let tMaterial = new Three.MultiMaterial(boxMaterials);
     let plane = new Three.Mesh(new Three.BoxGeometry(cattedraX, cattedraY, 0.04), tMaterial);
     plane.position.x += cattedraX / 2;
     plane.position.y += cattedraY / 2;

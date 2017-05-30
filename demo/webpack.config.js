@@ -12,10 +12,12 @@ const PAGE_TITLE = "React Planner";
 const VENDORS_LIBRARIES = ['immutable', 'react', 'react-dom', 'react-redux', 'redux', 'three'];
 
 module.exports = function (env) {
+  console.log("****************  ENV  *******************");
+  console.log(env);
   let isProduction = env && env.hasOwnProperty('production');
   let port = env && env.hasOwnProperty('port') ? env.port : 8080;
 
-  if (isProduction) console.info('Webpack: Production mode'); else console.info('Webpack: Development mode');
+  if (isProduction) console.log('Webpack: Production mode'); else console.log('Webpack: Development mode');
 
   let config = {
     context: path.resolve(__dirname),
@@ -30,8 +32,9 @@ module.exports = function (env) {
     performance: {
       hints: isProduction ? 'warning' : false
     },
-    devtool: isProduction ? 'source-map' : 'eval',
+    devtool: isProduction ? 'source-map' : 'inline-source-map',
     devServer: {
+      historyApiFallback: true,
       port: port,
       contentBase: path.join(__dirname, './dist'),
     },
@@ -53,7 +56,7 @@ module.exports = function (env) {
               "transform-object-rest-spread"
             ],
             "presets": [
-              "es2015-webpack2",
+              "es2015",
               "react"
             ]
           }

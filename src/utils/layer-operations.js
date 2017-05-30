@@ -500,8 +500,17 @@ export function removeHole(layer, holeID) {
 export function addItem(layer, type, x, y, width, height, rotation, catalog) {
   let item;
 
+
+  console.log("!!! This is layer-operations.addItem. layer="+layer);
+  console.log("!!! This is layer-operations.addItem. type="+type);
+  console.log("!!! This is layer-operations.addItem. x="+x);
+  console.log("!!! This is layer-operations.addItem. y="+y);
+  console.log("!!! This is layer-operations.addItem. catalog="+catalog);
+
   layer = layer.withMutations(layer => {
     let itemID = IDBroker.acquireID();
+
+    console.log("!!! This is layer-operations.addItem. itemID="+itemID);
 
     item = catalog.factoryElement(type, {
       id: itemID,
@@ -520,6 +529,9 @@ export function addItem(layer, type, x, y, width, height, rotation, catalog) {
 }
 
 export function removeItem(layer, itemID) {
+
+  console.log("!!! This is layer-operations.removeItem. itemID="+itemID);
+
   let item = layer.getIn(['items', itemID]);
   layer = layer.withMutations(layer => {
     unselect(layer, 'items', itemID);

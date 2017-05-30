@@ -11,6 +11,15 @@ import {
   END_ROTATING_ITEM
 } from '../constants';
 
+
+export function addBox(layerID) {
+  console.log("this is items-actions.addBox");
+  return {
+    type: 'ADD_BOX',
+    layerID
+  }
+}
+
 export function selectItem(layerID, itemID) {
   return {
     type: SELECT_ITEM,
