@@ -37,6 +37,9 @@ import sofa from './items/sofa/sofa';
 import teachingPost from './items/teaching-post/teaching-post';
 import trash from './items/trash/trash';
 import tv from './items/tv/tv';
+import thermometer from './items/thermometer/thermometer';
+import measure from './items/measure/measure';
+import pir from './items/pir/pir';
 
 catalog.registerElement(blackboard);
 catalog.registerElement(coatHook);
@@ -52,5 +55,8 @@ catalog.registerElement(sofa);
 catalog.registerElement(teachingPost);
 catalog.registerElement(trash);
 catalog.registerElement(tv);
+catalog.registerElement(thermometer);
+catalog.registerElement(measure);
+catalog.registerElement(pir);
 
 export default catalog;

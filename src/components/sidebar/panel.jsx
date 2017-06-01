@@ -5,7 +5,7 @@ const STYLE_TITLE = {
   fontSize: "11px",
   color: "#EBEBEB",
   padding: "5px 0 8px 15px",
-  backgroundColor: "#2E2F33",
+  backgroundColor: "#305680",
   textShadow: "-1px -1px 2px rgba(0, 0, 0, 1)",
   boxShadow: "inset 0px -3px 19px 0px rgba(0,0,0,0.5)",
   margin: "0px"
@@ -15,7 +15,7 @@ const STYLE_CONTENT = {
   color: "#EBEBEB",
   border: "1px solid #222222",
   padding: "0px",
-  backgroundColor: "#2E2F33",
+  backgroundColor: "#305680",
   textShadow: "-1px -1px 2px rgba(0, 0, 0, 1)"
 };
 

@@ -6,7 +6,7 @@
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --config demo/webpack.config.js --env.port 9000 & ./node_modules/.bin/json-server -p 9001 db.json",
+    "start": "webpack-dev-server --inline --config demo/webpack.config.js --env.port 8998 & ./node_modules/.bin/json-server -p 8999 db.json",
     "build-demo": "webpack --config demo/webpack.config.js --env.production",
     "build-commonjs": "cross-env BABEL_ENV=commonjs babel src --out-dir lib",
     "build-es": "cross-env BABEL_ENV=es babel src --out-dir es",

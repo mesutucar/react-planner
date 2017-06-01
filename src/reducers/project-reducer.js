@@ -112,7 +112,13 @@ function newProject(state) {
 }
 
 function loadProject(state, sceneJSON) {
-  return new State({scene: sceneJSON, catalog: state.catalog.toJS()});
+  console.log("** project-reducer.loadProject");
+  console.log("** state: ", state, "sceneJSON: ", sceneJSON);
+  console.log("** state.get(mode): ", state.get('mode'));
+
+  var createdState = new State({scene: sceneJSON, catalog: state.catalog.toJS()});
+  console.log("** createdState: ", createdState);
+  return createdState;
 }
 
 

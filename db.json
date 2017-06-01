@@ -1949,19 +1949,6 @@
             "rotation": -180,
             "misc": {}
           },
-          "HJQzfctbb": {
-            "id": "HJQzfctbb",
-            "prototype": "items",
-            "type": "cube",
-            "properties": {
-              "color": "#f48342"
-            },
-            "selected": false,
-            "x": 843,
-            "y": 470,
-            "rotation": 0,
-            "misc": {}
-          },
           "teaching_desk_alt_6": {
             "id": "teaching_desk_alt_6",
             "prototype": "items",
@@ -2145,6 +2132,26 @@
             "rotation": 90,
             "misc": {}
           },
+          "H1g-JLaWW": {
+            "id": "H1g-JLaWW",
+            "prototype": "items",
+            "type": "Measure",
+            "properties": {
+              "color": "#b0ffb0",
+              "altitude": {
+                "length": 120,
+                "unit": "cm",
+                "_length": "120",
+                "_unit": "cm"
+              },
+              "distance": 190
+            },
+            "selected": false,
+            "x": 507,
+            "y": 299,
+            "rotation": 0,
+            "misc": {}
+          },
           "teaching_desk_orta_ust_4": {
             "id": "teaching_desk_orta_ust_4",
             "prototype": "items",
@@ -2196,6 +2203,26 @@
             "rotation": 0,
             "misc": {}
           },
+          "B1PeEUT-b": {
+            "id": "B1PeEUT-b",
+            "prototype": "items",
+            "type": "PIR",
+            "properties": {
+              "color": "#b0b0ff",
+              "altitude": {
+                "length": 80,
+                "unit": "cm",
+                "_length": "80",
+                "_unit": "cm"
+              },
+              "thereismotion": 0
+            },
+            "selected": false,
+            "x": "625",
+            "y": "235",
+            "rotation": 0,
+            "misc": {}
+          },
           "teaching_desk_ust_2": {
             "id": "teaching_desk_ust_2",
             "prototype": "items",
@@ -2226,6 +2253,28 @@
             "selected": false,
             "x": "105",
             "y": "425",
+            "rotation": 0,
+            "misc": {}
+          },
+          "SJCEd0q-W": {
+            "id": "SJCEd0q-W",
+            "prototype": "items",
+            "type": "Thermometer",
+            "properties": {
+              "color": "#f40b00",
+              "altitude": {
+                "length": 80,
+                "unit": "cm",
+                "_length": "80",
+                "_unit": "cm"
+              },
+              "currentValue": 194,
+              "temperature": 24,
+              "humidity": 56
+            },
+            "selected": false,
+            "x": "500",
+            "y": "235",
             "rotation": 0,
             "misc": {}
           },

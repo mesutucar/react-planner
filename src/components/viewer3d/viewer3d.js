@@ -266,8 +266,24 @@ export default class Scene3DViewer extends React.Component {
 
     if (nextProps.state.scene !== this.props.state.scene) {
 
-      let changedValues = diff(this.props.state.scene, nextProps.state.scene);
-      updateScene(this.planData, nextProps.state.scene, this.props.state.scene, changedValues.toJS(), actions, this.context.catalog);
+      let changedValues = diff(this.props.state.scene, nextProps.state.scene).toJS();
+
+      console.log("--- MESUT: changedValues.length: ", changedValues.length);
+
+      let realChanges = [];
+      let currentChange;
+      // MESUT: bu yukaridaki diff libi, misc'lere hatali diff cikariyor ???
+      for (let index = 0; index < changedValues.length; ++index) {
+        currentChange = changedValues[index];
+        if (currentChange.path.indexOf("misc") == -1) {
+          //console.log(currentChange);
+          realChanges.push(currentChange);
+        }
+      }
+
+      console.log("--- MESUT: realChanges.length: ", realChanges.length);
+
+      updateScene(this.planData, nextProps.state.scene, this.props.state.scene, realChanges, actions, this.context.catalog);
     }
 
     renderer.setSize(width, height);

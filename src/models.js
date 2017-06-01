@@ -1,5 +1,5 @@
 import {Record, List, Map, fromJS} from 'immutable';
-import {MODE_IDLE} from './constants';
+import {MODE_IDLE, MODE_3D_VIEW} from './constants';
 
 let safeLoadMapList = (mapList, Model, defaultMap) => {
   return mapList
@@ -270,7 +270,7 @@ export class Catalog extends Record({
 }
 
 export class State extends Record({
-  mode: MODE_IDLE,
+  mode: MODE_3D_VIEW,
 
   scene: new Scene(),
   sceneHistory: new List([new Scene()]),
@@ -290,9 +290,10 @@ export class State extends Record({
 }, 'State') {
   constructor(json = {}) {
 
-    console.log(json);
+    console.log("*** Creating State: ", json);
 
     let scene = new Scene(json.scene);
+    //console.log("*** MODE: ", mode);
     super({
       ...json,
       scene,
@@ -308,6 +309,9 @@ export class State extends Record({
 
       misc: json.misc ? fromJS(json.misc) : new Map()
     })
+
+    console.log("*** this.mode: ", this.mode);
+    console.log("*** this: ", this);
   }
 }
 

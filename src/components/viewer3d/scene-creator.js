@@ -418,7 +418,6 @@ function addArea(sceneData, planData, layer, areaID, catalog, areaActions) {
 
 function addItem(sceneData, planData, layer, itemID, catalog, itemsActions) {
   let item = layer.items.get(itemID);
-  console.log("-- This is scene-creator.addItem. itemID="+itemID);
 
   return catalog.getElement(item.type).render3D(item, layer, sceneData).then(item3D => {
 

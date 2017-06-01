@@ -5,7 +5,7 @@ import PanelGuides from './panel-guides';
 import PanelLayerElements from './panel-layer-elements';
 
 const STYLE = {
-  backgroundColor: "#28292D",
+  backgroundColor: "#305680",
   display: "block",
   overflowY: "auto",
   overflowX: "hidden"

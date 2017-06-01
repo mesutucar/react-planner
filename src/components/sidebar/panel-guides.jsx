@@ -20,7 +20,7 @@ const STYLE_ADD_LABEL = {
 export default function PanelGuides({state: {scene, mode}}) {
   return (
     <Panel name="Guides">
-      <div key={1} style={{background: "#3a3a3e", padding: "5px 15px 5px 15px"}}>
+      <div key={1} style={{background: "#305680", padding: "5px 15px 5px 15px"}}>
         {scene.guides.entrySeq().map(([guideID, guide]) => {
           return (
             <div key={guideID}>

@@ -47,7 +47,7 @@ import {
 
 import ToolbarButton from './toolbar-button';
 const STYLE = {
-  backgroundColor: '#28292D',
+  backgroundColor: '#305680',
   padding: "10px"
 };
 
