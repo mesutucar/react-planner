@@ -35,6 +35,8 @@ module.exports = function (env) {
     devtool: isProduction ? 'source-map' : 'inline-source-map',
     devServer: {
       historyApiFallback: true,
+      hot: true,
+      host: "10.151.16.239",
       port: port,
       contentBase: path.join(__dirname, './dist'),
     },

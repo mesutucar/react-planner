@@ -17,7 +17,13 @@ let textures = {
   },
   tile1: {
     name: 'Tile1',
-    uri: require('./textures/tile1.jpg'),
+    uri: require('./textures/tile1.png'),
+    lengthRepeatScale: 0.01,
+    heightRepeatScale: 0.01,
+  },
+  grass: {
+    name: 'Grass',
+    uri: require('./textures/grass.png'),
     lengthRepeatScale: 0.01,
     heightRepeatScale: 0.01,
   },

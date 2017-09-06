@@ -367,6 +367,7 @@ function applyTexture(material, textureName, length, height, textures) {
   if (textureParams) {
     material.map = loader.load(textureParams.uri);
     material.needsUpdate = true;
+    material.transparent = true; // mesut added
     material.map.wrapS = Three.RepeatWrapping;
     material.map.wrapT = Three.RepeatWrapping;
     material.map.repeat.set(length * textureParams.lengthRepeatScale, height * textureParams.heightRepeatScale);

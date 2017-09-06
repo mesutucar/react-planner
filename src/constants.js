@@ -1,3 +1,6 @@
+// Mesut
+export const DATA_PATH = `http://10.151.16.239:8999/tekno_1_1_scene`;
+
 // ACTIONS project
 export const NEW_PROJECT = 'NEW_PROJECT';
 export const LOAD_PROJECT = 'LOAD_PROJECT';

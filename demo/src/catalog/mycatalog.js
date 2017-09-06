@@ -40,6 +40,7 @@ import tv from './items/tv/tv';
 import thermometer from './items/thermometer/thermometer';
 import measure from './items/measure/measure';
 import pir from './items/pir/pir';
+import buzzer from './items/buzzer/buzzer';
 
 catalog.registerElement(blackboard);
 catalog.registerElement(coatHook);
@@ -58,5 +59,6 @@ catalog.registerElement(tv);
 catalog.registerElement(thermometer);
 catalog.registerElement(measure);
 catalog.registerElement(pir);
+catalog.registerElement(buzzer);
 
 export default catalog;

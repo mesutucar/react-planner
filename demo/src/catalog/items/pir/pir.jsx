@@ -1,4 +1,4 @@
-import {BoxGeometry, MeshBasicMaterial, Mesh, BoxHelper} from 'three';
+import {BoxGeometry, MeshBasicMaterial, Mesh, BoxHelper, Object3D} from 'three';
 
 import React from 'react';
 
@@ -76,11 +76,11 @@ export default {
 
     mesh.position.y = newAltitude + 5;
 
-    var textToDisplay = "Hareket: " + element.properties.get('thereismotion');
+    var textToDisplay = "Hareket " + (element.properties.get('thereismotion') == 1 ? "Var" : "Yok");
     var spritey = makeTextSprite(textToDisplay,
       { fontsize: 24, borderColor: {r:0, g:0, b:192, a:1.0}, backgroundColor: {r:172, g:172, b:255, a:0.8} } );
-    //spritey.position.set(-85,105,55);
-
+    spritey.position.set(10, 25, 0);
+    //spritey.renderOrder = 10000;
     mesh.add(spritey);
 
     return Promise.resolve(mesh);

@@ -12,7 +12,18 @@ export default function PropertyToggle({value, onUpdate, configs, sourceElement,
         <tr>
           <td style={firstTdStyle}><FormLabel>{configs.label}</FormLabel></td>
           <td>
-            <Button onClick={e => onUpdate(!value)} size="small">{configs.actionName}</Button>
+            <Button onClick={e =>
+              {
+                fetch("http://localhost:8999/tekno_1_1_scene", {
+                  headers: {
+                    'Content-Type': 'application/json'
+                  },
+                  method: 'PATCH',
+                  body: '[{"op": "replace", "path":"/layers/layer-1/items/H1hG0_LMW/properties/isBuzzing", "value": ' + (!value) + '}]'
+                });
+                onUpdate(!value)
+              }
+            } size="small">{configs.actionName}</Button>
           </td>
         </tr>
       </tbody>

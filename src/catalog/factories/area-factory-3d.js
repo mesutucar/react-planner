@@ -13,7 +13,7 @@ import {
   Vector2 as ThreeVector2
 } from 'three';
 
-export default function createArea(element, layer, scene, textures) {
+export default function createArea(element, layer, scene, textures, areaDepth) {
   let vertices = [];
 
   element.vertices.forEach(vertexID => {
@@ -61,7 +61,9 @@ export default function createArea(element, layer, scene, textures) {
   let area = new ThreeObject3D();
 
   let areaFace1 = new ThreeMesh(shapeGeometry, areaMaterial1);
+  areaFace1.position.setZ(areaDepth); // mesut: in order to prevent area flickering when 2 or more areas overlapping
   let areaFace2 = new ThreeMesh(shapeGeometry, areaMaterial2);
+  areaFace2.position.setZ(areaDepth); // mesut: in order to prevent area flickering when 2 or more areas overlapping
 
   area.add(areaFace1);
   area.add(areaFace2);

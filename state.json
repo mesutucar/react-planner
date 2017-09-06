@@ -1,0 +1,4866 @@
+{
+  "tekno_1_1": {
+    "mode": "IDLE",
+    "scene": {
+      "unit": "cm",
+      "layers": {
+        "layer-1": {
+          "id": "layer-1",
+          "altitude": 0,
+          "order": 0,
+          "opacity": 1,
+          "name": "default",
+          "visible": true,
+          "vertices": {
+            "S1lXFtqZxW": {
+              "id": "S1lXFtqZxW",
+              "x": 151,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_1"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "H1ed_I9be-": {
+              "id": "H1ed_I9be-",
+              "x": 151,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_ust_1"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "SkQKFFq-lb": {
+              "id": "SkQKFFq-lb",
+              "x": 375,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_d_alt_2",
+                "wall_y_orta_alt_2",
+                "wall_y_orta_alt_3"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "B1e6dF5-lW": {
+              "id": "B1e6dF5-lW",
+              "x": 1125,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_6",
+                "wall_sag_kapi_x",
+                "wall_sag_kapi_x",
+                "wall_d_alt_4",
+                "wall_sag_kapi_x3"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "ry4ZqOL5ZxZ": {
+              "id": "ry4ZqOL5ZxZ",
+              "x": 224,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_ust_2"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "rylRYtqbgW": {
+              "id": "rylRYtqbgW",
+              "x": 224,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_2"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "rk-zcYqZg-": {
+              "id": "rk-zcYqZg-",
+              "x": 750,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_d_alt_3",
+                "wall_y_orta_alt_4",
+                "wall_y_orta_alt_5"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "HJbVMFq-xZ": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "HklKdY5Wx-": {
+              "id": "HklKdY5Wx-",
+              "x": 1125,
+              "y": 0,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_alt_3",
+                "wall_d_alt_4"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "S1ylJ_OqbeZ": {
+              "id": "S1ylJ_OqbeZ",
+              "x": 1125,
+              "y": 700,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_ust_3",
+                "wall_d_ust_4"
+              ],
+              "areas": [
+                "B1lgpqFYe-"
+              ],
+              "misc": {}
+            },
+            "HkgsICtZxZ": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "BklNDRFWe-": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "Hk-S9FqWlb": {
+              "id": "Hk-S9FqWlb",
+              "x": 750,
+              "y": 0,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_alt_3",
+                "wall_y_alt_2",
+                "wall_d_alt_3"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "HkG4C7CYWx-": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "rJlJg1oWxb": {
+              "id": "rJlJg1oWxb",
+              "x": 599,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_ust_4"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "HyeHOOc-x-": {
+              "id": "HyeHOOc-x-",
+              "x": 1125,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_ust_5",
+                "wall_sag_kapi_x2",
+                "wall_sag_kapi_x2",
+                "wall_sag_kapi_x3",
+                "wall_d_ust_4"
+              ],
+              "areas": [
+                "Byl69YYeZ",
+                "B1lgpqFYe-"
+              ],
+              "misc": {}
+            },
+            "SJeVGF5Wxb": {
+              "id": "SJeVGF5Wxb",
+              "x": 750,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_d_ust_3",
+                "wall_y_orta_ust_4",
+                "wall_y_orta_ust_5"
+              ],
+              "areas": [
+                "Byl69YYeZ",
+                "B1lgpqFYe-"
+              ],
+              "misc": {}
+            },
+            "BJxbst5-xb": {
+              "id": "BJxbst5-xb",
+              "x": 599,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_4"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "BkeuKvqWlW": {
+              "id": "BkeuKvqWlW",
+              "x": 526,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_ust_3"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "SkgGu0KWlb": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "S1_qX0KZl-": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "H1zWiY5bx-": {
+              "id": "H1zWiY5bx-",
+              "x": 901,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_5"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "B1fxJO_c-x-": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "HyeyFAK-lb": {
+              "id": "",
+              "x": -1,
+              "y": -1,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [],
+              "areas": [],
+              "misc": {}
+            },
+            "rybaS89WgW": {
+              "id": "rybaS89WgW",
+              "x": 0,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_sol_kapi_x",
+                "wall_sol_kapi_x",
+                "wall_y_orta_ust_1",
+                "wall_sol_kapi_x2",
+                "wall_d_ust_1"
+              ],
+              "areas": [
+                "Byl69YYeZ",
+                "Byl69YYeZ",
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "ryeKYY5Ze-": {
+              "id": "ryeKYY5Ze-",
+              "x": 375,
+              "y": 0,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_alt_1",
+                "wall_d_alt_2",
+                "wall_y_alt_2"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "HkTQAXRKZgW": {
+              "id": "HkTQAXRKZgW",
+              "x": 0,
+              "y": 700,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_ust_1",
+                "wall_d_ust_1"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "ByWW88c-gb": {
+              "id": "ByWW88c-gb",
+              "x": 375,
+              "y": 700,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_ust_1",
+                "wall_d_ust_2",
+                "wall_y_ust_2"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "rkG0KFcZe-": {
+              "id": "rkG0KFcZe-",
+              "x": 526,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_3"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "Hylxk9DqbeW": {
+              "id": "Hylxk9DqbeW",
+              "x": 750,
+              "y": 700,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_ust_2",
+                "wall_d_ust_3",
+                "wall_y_ust_3"
+              ],
+              "areas": [
+                "Byl69YYeZ",
+                "B1lgpqFYe-"
+              ],
+              "misc": {}
+            },
+            "SylBQtqZx-": {
+              "id": "SylBQtqZx-",
+              "x": 0,
+              "y": 0,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_alt_1",
+                "wall_d_alt_1"
+              ],
+              "areas": [
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "BkbrXtcZgZ": {
+              "id": "BkbrXtcZgZ",
+              "x": 0,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_sol_kapi_x3",
+                "wall_sol_kapi_x3",
+                "wall_y_orta_alt_1",
+                "wall_d_alt_1",
+                "wall_sol_kapi_x2"
+              ],
+              "areas": [
+                "Byl69YYeZ",
+                "Byl69YYeZ",
+                "Byl69YYeZ"
+              ],
+              "misc": {}
+            },
+            "BJZgmsKq-gZ": {
+              "id": "BJZgmsKq-gZ",
+              "x": 974,
+              "y": 300,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_y_orta_alt_6"
+              ],
+              "areas": [],
+              "misc": {}
+            },
+            "BkNpSL9Web": {
+              "id": "BkNpSL9Web",
+              "x": 375,
+              "y": 400,
+              "prototype": "vertices",
+              "selected": false,
+              "lines": [
+                "wall_d_ust_2",
+                "wall_y_orta_ust_2",
+                "wall_y_orta_ust_3"
+              ],
+              "areas": [],
+              "misc": {}
+            }
+          },
+          "lines": {
+            "wall_y_alt_1": {
+              "id": "wall_y_alt_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "SylBQtqZx-",
+                "ryeKYY5Ze-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_alt_2": {
+              "id": "wall_y_alt_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "ryeKYY5Ze-",
+                "Hk-S9FqWlb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_alt_3": {
+              "id": "wall_y_alt_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "HklKdY5Wx-",
+                "Hk-S9FqWlb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_sag_kapi_x": {
+              "id": "wall_sag_kapi_x",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "B1e6dF5-lW",
+                "B1e6dF5-lW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {}
+            },
+            "wall_sol_kapi_x2": {
+              "id": "wall_sol_kapi_x2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BkbrXtcZgZ",
+                "rybaS89WgW"
+              ],
+              "holes": [
+                "door_sol"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_sol_kapi_x3": {
+              "id": "wall_sol_kapi_x3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BkbrXtcZgZ",
+                "BkbrXtcZgZ"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {}
+            },
+            "wall_y_orta_alt_1": {
+              "id": "wall_y_orta_alt_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "S1lXFtqZxW",
+                "BkbrXtcZgZ"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_alt_2": {
+              "id": "wall_y_orta_alt_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "rylRYtqbgW",
+                "SkQKFFq-lb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_alt_3": {
+              "id": "wall_y_orta_alt_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "SkQKFFq-lb",
+                "rkG0KFcZe-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_alt_4": {
+              "id": "wall_y_orta_alt_4",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BJxbst5-xb",
+                "rk-zcYqZg-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_alt_5": {
+              "id": "wall_y_orta_alt_5",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "rk-zcYqZg-",
+                "H1zWiY5bx-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_alt_1": {
+              "id": "wall_d_alt_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "SylBQtqZx-",
+                "BkbrXtcZgZ"
+              ],
+              "holes": [
+                "window_sol_alt"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_sol_kapi_x": {
+              "id": "wall_sol_kapi_x",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "rybaS89WgW",
+                "rybaS89WgW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {}
+            },
+            "wall_y_orta_alt_6": {
+              "id": "wall_y_orta_alt_6",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BJZgmsKq-gZ",
+                "B1e6dF5-lW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_alt_2": {
+              "id": "wall_d_alt_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "ryeKYY5Ze-",
+                "SkQKFFq-lb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_alt_3": {
+              "id": "wall_d_alt_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "Hk-S9FqWlb",
+                "rk-zcYqZg-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_ust_1": {
+              "id": "wall_y_ust_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "HkTQAXRKZgW",
+                "ByWW88c-gb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_alt_4": {
+              "id": "wall_d_alt_4",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "HklKdY5Wx-",
+                "B1e6dF5-lW"
+              ],
+              "holes": [
+                "window_sag_alt"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_ust_2": {
+              "id": "wall_y_ust_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "ByWW88c-gb",
+                "Hylxk9DqbeW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_sag_kapi_x2": {
+              "id": "wall_sag_kapi_x2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "HyeHOOc-x-",
+                "HyeHOOc-x-"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {}
+            },
+            "wall_y_ust_3": {
+              "id": "wall_y_ust_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "Hylxk9DqbeW",
+                "S1ylJ_OqbeZ"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_sag_kapi_x3": {
+              "id": "wall_sag_kapi_x3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "B1e6dF5-lW",
+                "HyeHOOc-x-"
+              ],
+              "holes": [
+                "door_sag"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_ust_1": {
+              "id": "wall_y_orta_ust_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "H1ed_I9be-",
+                "rybaS89WgW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_ust_2": {
+              "id": "wall_y_orta_ust_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "ry4ZqOL5ZxZ",
+                "BkNpSL9Web"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_ust_3": {
+              "id": "wall_y_orta_ust_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BkNpSL9Web",
+                "BkeuKvqWlW"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_ust_4": {
+              "id": "wall_y_orta_ust_4",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "rJlJg1oWxb",
+                "SJeVGF5Wxb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_y_orta_ust_5": {
+              "id": "wall_y_orta_ust_5",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "SJeVGF5Wxb",
+                "HyeHOOc-x-"
+              ],
+              "holes": [
+                "door_oda",
+                "window_oda_alt"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_ust_1": {
+              "id": "wall_d_ust_1",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "rybaS89WgW",
+                "HkTQAXRKZgW"
+              ],
+              "holes": [
+                "window_sol_ust"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_ust_2": {
+              "id": "wall_d_ust_2",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "BkNpSL9Web",
+                "ByWW88c-gb"
+              ],
+              "holes": [],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_ust_3": {
+              "id": "wall_d_ust_3",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "SJeVGF5Wxb",
+                "Hylxk9DqbeW"
+              ],
+              "holes": [
+                "window_oda_sol"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "painted",
+                "textureB": "painted"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            },
+            "wall_d_ust_4": {
+              "id": "wall_d_ust_4",
+              "type": "wall",
+              "prototype": "lines",
+              "vertices": [
+                "HyeHOOc-x-",
+                "S1ylJ_OqbeZ"
+              ],
+              "holes": [
+                "window_sag_ust"
+              ],
+              "selected": false,
+              "properties": {
+                "height": {
+                  "length": 200,
+                  "_length": "200",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 20
+                },
+                "textureA": "none",
+                "textureB": "none"
+              },
+              "misc": {
+                "_unitLength": "cm"
+              }
+            }
+          },
+          "holes": {
+            "window_sag_ust": {
+              "id": "window_sag_ust",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.5,
+              "line": "wall_d_ust_4",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 300,
+                  "_length": "300",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 195,
+                  "_length": "195",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 0,
+                  "_length": "0",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "window_oda_alt": {
+              "id": "window_oda_alt",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.3333333333333333,
+              "line": "wall_y_orta_ust_5",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 240,
+                  "_length": "240",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 75,
+                  "_length": "75",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "door_sag": {
+              "id": "door_sag",
+              "type": "door",
+              "prototype": "holes",
+              "offset": 0.4835285650994729,
+              "line": "wall_sag_kapi_x3",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 80
+                },
+                "height": {
+                  "length": 195,
+                  "_length": "195",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 0
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "flip_orizzontal": false
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "window_sol_alt": {
+              "id": "window_sol_alt",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.5,
+              "line": "wall_d_alt_1",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 300,
+                  "_length": "300",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 75,
+                  "_length": "75",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "window_oda_sol": {
+              "id": "window_oda_sol",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.5,
+              "line": "wall_d_ust_3",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 300,
+                  "_length": "300",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 75,
+                  "_length": "75",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "window_sag_alt": {
+              "id": "window_sag_alt",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.5,
+              "line": "wall_d_alt_4",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 300,
+                  "_length": "300",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 195,
+                  "_length": "195",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 0,
+                  "_length": "0",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "window_sol_ust": {
+              "id": "window_sol_ust",
+              "type": "window",
+              "prototype": "holes",
+              "offset": 0.5,
+              "line": "wall_d_ust_1",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 300,
+                  "_length": "300",
+                  "_unit": "cm"
+                },
+                "height": {
+                  "length": 75,
+                  "_length": "75",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 120,
+                  "_length": "120",
+                  "_unit": "cm"
+                },
+                "thickness": {
+                  "length": 10
+                }
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "door_oda": {
+              "id": "door_oda",
+              "type": "door",
+              "prototype": "holes",
+              "offset": 0.7757121915431477,
+              "line": "wall_y_orta_ust_5",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 80
+                },
+                "height": {
+                  "length": 195,
+                  "_length": "195",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 0
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "flip_orizzontal": false
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            },
+            "door_sol": {
+              "id": "door_sol",
+              "type": "door",
+              "prototype": "holes",
+              "offset": 0.5067057388403827,
+              "line": "wall_sol_kapi_x2",
+              "selected": false,
+              "properties": {
+                "width": {
+                  "length": 80
+                },
+                "height": {
+                  "length": 195,
+                  "_length": "195",
+                  "_unit": "cm"
+                },
+                "altitude": {
+                  "length": 0
+                },
+                "thickness": {
+                  "length": 20,
+                  "_length": "20",
+                  "_unit": "cm"
+                },
+                "flip_orizzontal": false
+              },
+              "misc": {
+                "_unitA": "cm",
+                "_unitB": "cm"
+              }
+            }
+          },
+          "areas": {
+            "Byl69YYeZ": {
+              "id": "Byl69YYeZ",
+              "type": "area",
+              "prototype": "areas",
+              "vertices": [
+                "Hylxk9DqbeW",
+                "ByWW88c-gb",
+                "HkTQAXRKZgW",
+                "rybaS89WgW",
+                "rybaS89WgW",
+                "rybaS89WgW",
+                "BkbrXtcZgZ",
+                "BkbrXtcZgZ",
+                "BkbrXtcZgZ",
+                "SylBQtqZx-",
+                "ryeKYY5Ze-",
+                "Hk-S9FqWlb",
+                "HklKdY5Wx-",
+                "B1e6dF5-lW",
+                "HyeHOOc-x-",
+                "SJeVGF5Wxb"
+              ],
+              "selected": false,
+              "properties": {
+                "patternColor": "#f5f4f4",
+                "thickness": {
+                  "length": 0
+                },
+                "texture": "none"
+              },
+              "misc": {}
+            },
+            "B1lgpqFYe-": {
+              "id": "B1lgpqFYe-",
+              "type": "area",
+              "prototype": "areas",
+              "vertices": [
+                "SJeVGF5Wxb",
+                "HyeHOOc-x-",
+                "S1ylJ_OqbeZ",
+                "Hylxk9DqbeW"
+              ],
+              "selected": false,
+              "properties": {
+                "patternColor": "#f5f4f4",
+                "thickness": {
+                  "length": 0
+                },
+                "texture": "none"
+              },
+              "misc": {}
+            }
+          },
+          "items": {
+            "teaching_desk_orta_alt_1": {
+              "id": "teaching_desk_orta_alt_1",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "76",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_alt_3": {
+              "id": "tv_alt_3",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "480",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_orta_alt_2": {
+              "id": "teaching_desk_orta_alt_2",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "300",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_alt_4": {
+              "id": "tv_alt_4",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "705",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_orta_alt_3": {
+              "id": "teaching_desk_orta_alt_3",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "450",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_alt_5": {
+              "id": "tv_alt_5",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "850",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_orta_alt_4": {
+              "id": "teaching_desk_orta_alt_4",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "675",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_alt_6": {
+              "id": "tv_alt_6",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "1075",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_orta_alt_5": {
+              "id": "teaching_desk_orta_alt_5",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "825",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_orta_alt_6": {
+              "id": "teaching_desk_orta_alt_6",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "1050",
+              "y": "247",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_alt_1": {
+              "id": "teaching_desk_alt_1",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "75",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_alt_2": {
+              "id": "teaching_desk_alt_2",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "300",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_alt_3": {
+              "id": "teaching_desk_alt_3",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "450",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_orta_alt_1": {
+              "id": "tv_orta_alt_1",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "45",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "teaching_desk_alt_4": {
+              "id": "teaching_desk_alt_4",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "675",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_orta_alt_2": {
+              "id": "tv_orta_alt_2",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "270",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "teaching_desk_alt_5": {
+              "id": "teaching_desk_alt_5",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "825",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "SJlDEutW-": {
+              "id": "SJlDEutW-",
+              "prototype": "items",
+              "type": "cube",
+              "properties": {
+                "color": "#f48342"
+              },
+              "selected": false,
+              "x": 400,
+              "y": 500,
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_orta_alt_3": {
+              "id": "tv_orta_alt_3",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "425",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "tv_ust_1": {
+              "id": "tv_ust_1",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "40",
+              "y": "670",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_alt_6": {
+              "id": "teaching_desk_alt_6",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "1050",
+              "y": "50",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_orta_alt_4": {
+              "id": "tv_orta_alt_4",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "640",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "tv_ust_2": {
+              "id": "tv_ust_2",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "270",
+              "y": "670",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_orta_ust_1": {
+              "id": "teaching_desk_orta_ust_1",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "75",
+              "y": "450",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_orta_alt_5": {
+              "id": "tv_orta_alt_5",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "795",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "tv_ust_3": {
+              "id": "tv_ust_3",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "415",
+              "y": "670",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_orta_ust_2": {
+              "id": "teaching_desk_orta_ust_2",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "300",
+              "y": "450",
+              "rotation": 180,
+              "misc": {}
+            },
+            "tv_orta_alt_6": {
+              "id": "tv_orta_alt_6",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "1015",
+              "y": "275",
+              "rotation": 180,
+              "misc": {}
+            },
+            "tv_ust_4": {
+              "id": "tv_ust_4",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "640",
+              "y": "670",
+              "rotation": -180,
+              "misc": {}
+            },
+            "teaching_desk_orta_ust_3": {
+              "id": "teaching_desk_orta_ust_3",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "450",
+              "y": "450",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_ust_5": {
+              "id": "tv_ust_5",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "870",
+              "y": "620",
+              "rotation": 90,
+              "misc": {}
+            },
+            "teaching_desk_orta_ust_4": {
+              "id": "teaching_desk_orta_ust_4",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm",
+                  "_length": "0",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "675",
+              "y": "450",
+              "rotation": -180,
+              "misc": {}
+            },
+            "tv_ust_6": {
+              "id": "tv_ust_6",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "1000",
+              "y": "560",
+              "rotation": 270,
+              "misc": {}
+            },
+            "teaching_desk_ust_1": {
+              "id": "teaching_desk_ust_1",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "75",
+              "y": "648",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_ust_2": {
+              "id": "teaching_desk_ust_2",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "300",
+              "y": "648",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_orta_ust_1": {
+              "id": "tv_orta_ust_1",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "105",
+              "y": "425",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_ust_3": {
+              "id": "teaching_desk_ust_3",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "450",
+              "y": "648",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_orta_ust_2": {
+              "id": "tv_orta_ust_2",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "330",
+              "y": "425",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_ust_4": {
+              "id": "teaching_desk_ust_4",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "675",
+              "y": "648",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_orta_ust_3": {
+              "id": "tv_orta_ust_3",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": 481,
+              "y": 425,
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_ust_5": {
+              "id": "teaching_desk_ust_5",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": 841,
+              "y": 590,
+              "rotation": -90,
+              "misc": {}
+            },
+            "tv_orta_ust_4": {
+              "id": "tv_orta_ust_4",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "710",
+              "y": "425",
+              "rotation": 0,
+              "misc": {}
+            },
+            "teaching_desk_ust_6": {
+              "id": "teaching_desk_ust_6",
+              "prototype": "items",
+              "type": "teaching-post",
+              "properties": {
+                "altitude": {
+                  "length": 0,
+                  "unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": 1031,
+              "y": 590,
+              "rotation": 90,
+              "misc": {}
+            },
+            "tv_alt_1": {
+              "id": "tv_alt_1",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "105",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            },
+            "tv_alt_2": {
+              "id": "tv_alt_2",
+              "prototype": "items",
+              "type": "tv",
+              "properties": {
+                "altitude": {
+                  "length": 80,
+                  "_length": "80",
+                  "_unit": "cm"
+                }
+              },
+              "selected": false,
+              "x": "330",
+              "y": "25",
+              "rotation": 0,
+              "misc": {}
+            }
+          },
+          "selected": {
+            "vertices": [],
+            "lines": [],
+            "holes": [],
+            "areas": [],
+            "items": []
+          }
+        }
+      },
+      "guides": {
+        "h1": {
+          "id": "h1",
+          "type": "horizontal-streak",
+          "properties": {
+            "step": 20,
+            "colors": [
+              "#808080",
+              "#ddd",
+              "#ddd",
+              "#ddd",
+              "#ddd"
+            ]
+          }
+        },
+        "v1": {
+          "id": "v1",
+          "type": "vertical-streak",
+          "properties": {
+            "step": 20,
+            "colors": [
+              "#808080",
+              "#ddd",
+              "#ddd",
+              "#ddd",
+              "#ddd"
+            ]
+          }
+        }
+      },
+      "selectedLayer": "layer-1",
+      "width": 1125,
+      "height": 700,
+      "meta": {}
+    },
+    "sceneHistory": [
+      {
+        "unit": "cm",
+        "layers": {
+          "layer-1": {
+            "id": "layer-1",
+            "altitude": 0,
+            "order": 0,
+            "opacity": 1,
+            "name": "default",
+            "visible": true,
+            "vertices": {
+              "S1lXFtqZxW": {
+                "id": "S1lXFtqZxW",
+                "x": 151,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_1"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "H1ed_I9be-": {
+                "id": "H1ed_I9be-",
+                "x": 151,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_ust_1"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "SkQKFFq-lb": {
+                "id": "SkQKFFq-lb",
+                "x": 375,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_d_alt_2",
+                  "wall_y_orta_alt_2",
+                  "wall_y_orta_alt_3"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "B1e6dF5-lW": {
+                "id": "B1e6dF5-lW",
+                "x": 1125,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_6",
+                  "wall_sag_kapi_x",
+                  "wall_sag_kapi_x",
+                  "wall_d_alt_4",
+                  "wall_sag_kapi_x3"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "ry4ZqOL5ZxZ": {
+                "id": "ry4ZqOL5ZxZ",
+                "x": 224,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_ust_2"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "rylRYtqbgW": {
+                "id": "rylRYtqbgW",
+                "x": 224,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_2"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "rk-zcYqZg-": {
+                "id": "rk-zcYqZg-",
+                "x": 750,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_d_alt_3",
+                  "wall_y_orta_alt_4",
+                  "wall_y_orta_alt_5"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "HJbVMFq-xZ": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "HklKdY5Wx-": {
+                "id": "HklKdY5Wx-",
+                "x": 1125,
+                "y": 0,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_alt_3",
+                  "wall_d_alt_4"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "S1ylJ_OqbeZ": {
+                "id": "S1ylJ_OqbeZ",
+                "x": 1125,
+                "y": 700,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_ust_3",
+                  "wall_d_ust_4"
+                ],
+                "areas": [
+                  "B1lgpqFYe-"
+                ],
+                "misc": {}
+              },
+              "HkgsICtZxZ": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "BklNDRFWe-": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "Hk-S9FqWlb": {
+                "id": "Hk-S9FqWlb",
+                "x": 750,
+                "y": 0,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_alt_3",
+                  "wall_y_alt_2",
+                  "wall_d_alt_3"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "HkG4C7CYWx-": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "rJlJg1oWxb": {
+                "id": "rJlJg1oWxb",
+                "x": 599,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_ust_4"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "HyeHOOc-x-": {
+                "id": "HyeHOOc-x-",
+                "x": 1125,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_ust_5",
+                  "wall_sag_kapi_x2",
+                  "wall_sag_kapi_x2",
+                  "wall_sag_kapi_x3",
+                  "wall_d_ust_4"
+                ],
+                "areas": [
+                  "Byl69YYeZ",
+                  "B1lgpqFYe-"
+                ],
+                "misc": {}
+              },
+              "SJeVGF5Wxb": {
+                "id": "SJeVGF5Wxb",
+                "x": 750,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_d_ust_3",
+                  "wall_y_orta_ust_4",
+                  "wall_y_orta_ust_5"
+                ],
+                "areas": [
+                  "Byl69YYeZ",
+                  "B1lgpqFYe-"
+                ],
+                "misc": {}
+              },
+              "BJxbst5-xb": {
+                "id": "BJxbst5-xb",
+                "x": 599,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_4"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "BkeuKvqWlW": {
+                "id": "BkeuKvqWlW",
+                "x": 526,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_ust_3"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "SkgGu0KWlb": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "S1_qX0KZl-": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "H1zWiY5bx-": {
+                "id": "H1zWiY5bx-",
+                "x": 901,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_5"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "B1fxJO_c-x-": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "HyeyFAK-lb": {
+                "id": "",
+                "x": -1,
+                "y": -1,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [],
+                "areas": [],
+                "misc": {}
+              },
+              "rybaS89WgW": {
+                "id": "rybaS89WgW",
+                "x": 0,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_sol_kapi_x",
+                  "wall_sol_kapi_x",
+                  "wall_y_orta_ust_1",
+                  "wall_sol_kapi_x2",
+                  "wall_d_ust_1"
+                ],
+                "areas": [
+                  "Byl69YYeZ",
+                  "Byl69YYeZ",
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "ryeKYY5Ze-": {
+                "id": "ryeKYY5Ze-",
+                "x": 375,
+                "y": 0,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_alt_1",
+                  "wall_d_alt_2",
+                  "wall_y_alt_2"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "HkTQAXRKZgW": {
+                "id": "HkTQAXRKZgW",
+                "x": 0,
+                "y": 700,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_ust_1",
+                  "wall_d_ust_1"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "ByWW88c-gb": {
+                "id": "ByWW88c-gb",
+                "x": 375,
+                "y": 700,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_ust_1",
+                  "wall_d_ust_2",
+                  "wall_y_ust_2"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "rkG0KFcZe-": {
+                "id": "rkG0KFcZe-",
+                "x": 526,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_3"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "Hylxk9DqbeW": {
+                "id": "Hylxk9DqbeW",
+                "x": 750,
+                "y": 700,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_ust_2",
+                  "wall_d_ust_3",
+                  "wall_y_ust_3"
+                ],
+                "areas": [
+                  "Byl69YYeZ",
+                  "B1lgpqFYe-"
+                ],
+                "misc": {}
+              },
+              "SylBQtqZx-": {
+                "id": "SylBQtqZx-",
+                "x": 0,
+                "y": 0,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_alt_1",
+                  "wall_d_alt_1"
+                ],
+                "areas": [
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "BkbrXtcZgZ": {
+                "id": "BkbrXtcZgZ",
+                "x": 0,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_sol_kapi_x3",
+                  "wall_sol_kapi_x3",
+                  "wall_y_orta_alt_1",
+                  "wall_d_alt_1",
+                  "wall_sol_kapi_x2"
+                ],
+                "areas": [
+                  "Byl69YYeZ",
+                  "Byl69YYeZ",
+                  "Byl69YYeZ"
+                ],
+                "misc": {}
+              },
+              "BJZgmsKq-gZ": {
+                "id": "BJZgmsKq-gZ",
+                "x": 974,
+                "y": 300,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_y_orta_alt_6"
+                ],
+                "areas": [],
+                "misc": {}
+              },
+              "BkNpSL9Web": {
+                "id": "BkNpSL9Web",
+                "x": 375,
+                "y": 400,
+                "prototype": "vertices",
+                "selected": false,
+                "lines": [
+                  "wall_d_ust_2",
+                  "wall_y_orta_ust_2",
+                  "wall_y_orta_ust_3"
+                ],
+                "areas": [],
+                "misc": {}
+              }
+            },
+            "lines": {
+              "wall_y_alt_1": {
+                "id": "wall_y_alt_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "SylBQtqZx-",
+                  "ryeKYY5Ze-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_alt_2": {
+                "id": "wall_y_alt_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "ryeKYY5Ze-",
+                  "Hk-S9FqWlb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_alt_3": {
+                "id": "wall_y_alt_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "HklKdY5Wx-",
+                  "Hk-S9FqWlb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_sag_kapi_x": {
+                "id": "wall_sag_kapi_x",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "B1e6dF5-lW",
+                  "B1e6dF5-lW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {}
+              },
+              "wall_sol_kapi_x2": {
+                "id": "wall_sol_kapi_x2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BkbrXtcZgZ",
+                  "rybaS89WgW"
+                ],
+                "holes": [
+                  "door_sol"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_sol_kapi_x3": {
+                "id": "wall_sol_kapi_x3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BkbrXtcZgZ",
+                  "BkbrXtcZgZ"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {}
+              },
+              "wall_y_orta_alt_1": {
+                "id": "wall_y_orta_alt_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "S1lXFtqZxW",
+                  "BkbrXtcZgZ"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_alt_2": {
+                "id": "wall_y_orta_alt_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "rylRYtqbgW",
+                  "SkQKFFq-lb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_alt_3": {
+                "id": "wall_y_orta_alt_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "SkQKFFq-lb",
+                  "rkG0KFcZe-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_alt_4": {
+                "id": "wall_y_orta_alt_4",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BJxbst5-xb",
+                  "rk-zcYqZg-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_alt_5": {
+                "id": "wall_y_orta_alt_5",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "rk-zcYqZg-",
+                  "H1zWiY5bx-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_alt_1": {
+                "id": "wall_d_alt_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "SylBQtqZx-",
+                  "BkbrXtcZgZ"
+                ],
+                "holes": [
+                  "window_sol_alt"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_sol_kapi_x": {
+                "id": "wall_sol_kapi_x",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "rybaS89WgW",
+                  "rybaS89WgW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {}
+              },
+              "wall_y_orta_alt_6": {
+                "id": "wall_y_orta_alt_6",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BJZgmsKq-gZ",
+                  "B1e6dF5-lW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_alt_2": {
+                "id": "wall_d_alt_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "ryeKYY5Ze-",
+                  "SkQKFFq-lb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_alt_3": {
+                "id": "wall_d_alt_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "Hk-S9FqWlb",
+                  "rk-zcYqZg-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_ust_1": {
+                "id": "wall_y_ust_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "HkTQAXRKZgW",
+                  "ByWW88c-gb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_alt_4": {
+                "id": "wall_d_alt_4",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "HklKdY5Wx-",
+                  "B1e6dF5-lW"
+                ],
+                "holes": [
+                  "window_sag_alt"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_ust_2": {
+                "id": "wall_y_ust_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "ByWW88c-gb",
+                  "Hylxk9DqbeW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_sag_kapi_x2": {
+                "id": "wall_sag_kapi_x2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "HyeHOOc-x-",
+                  "HyeHOOc-x-"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {}
+              },
+              "wall_y_ust_3": {
+                "id": "wall_y_ust_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "Hylxk9DqbeW",
+                  "S1ylJ_OqbeZ"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_sag_kapi_x3": {
+                "id": "wall_sag_kapi_x3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "B1e6dF5-lW",
+                  "HyeHOOc-x-"
+                ],
+                "holes": [
+                  "door_sag"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_ust_1": {
+                "id": "wall_y_orta_ust_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "H1ed_I9be-",
+                  "rybaS89WgW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_ust_2": {
+                "id": "wall_y_orta_ust_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "ry4ZqOL5ZxZ",
+                  "BkNpSL9Web"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_ust_3": {
+                "id": "wall_y_orta_ust_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BkNpSL9Web",
+                  "BkeuKvqWlW"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_ust_4": {
+                "id": "wall_y_orta_ust_4",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "rJlJg1oWxb",
+                  "SJeVGF5Wxb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_y_orta_ust_5": {
+                "id": "wall_y_orta_ust_5",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "SJeVGF5Wxb",
+                  "HyeHOOc-x-"
+                ],
+                "holes": [
+                  "door_oda",
+                  "window_oda_alt"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_ust_1": {
+                "id": "wall_d_ust_1",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "rybaS89WgW",
+                  "HkTQAXRKZgW"
+                ],
+                "holes": [
+                  "window_sol_ust"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_ust_2": {
+                "id": "wall_d_ust_2",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "BkNpSL9Web",
+                  "ByWW88c-gb"
+                ],
+                "holes": [],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_ust_3": {
+                "id": "wall_d_ust_3",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "SJeVGF5Wxb",
+                  "Hylxk9DqbeW"
+                ],
+                "holes": [
+                  "window_oda_sol"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "painted",
+                  "textureB": "painted"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              },
+              "wall_d_ust_4": {
+                "id": "wall_d_ust_4",
+                "type": "wall",
+                "prototype": "lines",
+                "vertices": [
+                  "HyeHOOc-x-",
+                  "S1ylJ_OqbeZ"
+                ],
+                "holes": [
+                  "window_sag_ust"
+                ],
+                "selected": false,
+                "properties": {
+                  "height": {
+                    "length": 200,
+                    "_length": "200",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 20
+                  },
+                  "textureA": "none",
+                  "textureB": "none"
+                },
+                "misc": {
+                  "_unitLength": "cm"
+                }
+              }
+            },
+            "holes": {
+              "window_sag_ust": {
+                "id": "window_sag_ust",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.5,
+                "line": "wall_d_ust_4",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 300,
+                    "_length": "300",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 195,
+                    "_length": "195",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 0,
+                    "_length": "0",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "window_oda_alt": {
+                "id": "window_oda_alt",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.3333333333333333,
+                "line": "wall_y_orta_ust_5",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 240,
+                    "_length": "240",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 75,
+                    "_length": "75",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "door_sag": {
+                "id": "door_sag",
+                "type": "door",
+                "prototype": "holes",
+                "offset": 0.4835285650994729,
+                "line": "wall_sag_kapi_x3",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 80
+                  },
+                  "height": {
+                    "length": 195,
+                    "_length": "195",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 0
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "flip_orizzontal": false
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "window_sol_alt": {
+                "id": "window_sol_alt",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.5,
+                "line": "wall_d_alt_1",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 300,
+                    "_length": "300",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 75,
+                    "_length": "75",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "window_oda_sol": {
+                "id": "window_oda_sol",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.5,
+                "line": "wall_d_ust_3",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 300,
+                    "_length": "300",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 75,
+                    "_length": "75",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "window_sag_alt": {
+                "id": "window_sag_alt",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.5,
+                "line": "wall_d_alt_4",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 300,
+                    "_length": "300",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 195,
+                    "_length": "195",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 0,
+                    "_length": "0",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "window_sol_ust": {
+                "id": "window_sol_ust",
+                "type": "window",
+                "prototype": "holes",
+                "offset": 0.5,
+                "line": "wall_d_ust_1",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 300,
+                    "_length": "300",
+                    "_unit": "cm"
+                  },
+                  "height": {
+                    "length": 75,
+                    "_length": "75",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 120,
+                    "_length": "120",
+                    "_unit": "cm"
+                  },
+                  "thickness": {
+                    "length": 10
+                  }
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "door_oda": {
+                "id": "door_oda",
+                "type": "door",
+                "prototype": "holes",
+                "offset": 0.7757121915431477,
+                "line": "wall_y_orta_ust_5",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 80
+                  },
+                  "height": {
+                    "length": 195,
+                    "_length": "195",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 0
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "flip_orizzontal": false
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              },
+              "door_sol": {
+                "id": "door_sol",
+                "type": "door",
+                "prototype": "holes",
+                "offset": 0.5067057388403827,
+                "line": "wall_sol_kapi_x2",
+                "selected": false,
+                "properties": {
+                  "width": {
+                    "length": 80
+                  },
+                  "height": {
+                    "length": 195,
+                    "_length": "195",
+                    "_unit": "cm"
+                  },
+                  "altitude": {
+                    "length": 0
+                  },
+                  "thickness": {
+                    "length": 20,
+                    "_length": "20",
+                    "_unit": "cm"
+                  },
+                  "flip_orizzontal": false
+                },
+                "misc": {
+                  "_unitA": "cm",
+                  "_unitB": "cm"
+                }
+              }
+            },
+            "areas": {
+              "Byl69YYeZ": {
+                "id": "Byl69YYeZ",
+                "type": "area",
+                "prototype": "areas",
+                "vertices": [
+                  "Hylxk9DqbeW",
+                  "ByWW88c-gb",
+                  "HkTQAXRKZgW",
+                  "rybaS89WgW",
+                  "rybaS89WgW",
+                  "rybaS89WgW",
+                  "BkbrXtcZgZ",
+                  "BkbrXtcZgZ",
+                  "BkbrXtcZgZ",
+                  "SylBQtqZx-",
+                  "ryeKYY5Ze-",
+                  "Hk-S9FqWlb",
+                  "HklKdY5Wx-",
+                  "B1e6dF5-lW",
+                  "HyeHOOc-x-",
+                  "SJeVGF5Wxb"
+                ],
+                "selected": false,
+                "properties": {
+                  "patternColor": "#f5f4f4",
+                  "thickness": {
+                    "length": 0
+                  },
+                  "texture": "none"
+                },
+                "misc": {}
+              },
+              "B1lgpqFYe-": {
+                "id": "B1lgpqFYe-",
+                "type": "area",
+                "prototype": "areas",
+                "vertices": [
+                  "SJeVGF5Wxb",
+                  "HyeHOOc-x-",
+                  "S1ylJ_OqbeZ",
+                  "Hylxk9DqbeW"
+                ],
+                "selected": false,
+                "properties": {
+                  "patternColor": "#f5f4f4",
+                  "thickness": {
+                    "length": 0
+                  },
+                  "texture": "none"
+                },
+                "misc": {}
+              }
+            },
+            "items": {
+              "teaching_desk_orta_alt_1": {
+                "id": "teaching_desk_orta_alt_1",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "76",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_alt_3": {
+                "id": "tv_alt_3",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "480",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_orta_alt_2": {
+                "id": "teaching_desk_orta_alt_2",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "300",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_alt_4": {
+                "id": "tv_alt_4",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "705",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_orta_alt_3": {
+                "id": "teaching_desk_orta_alt_3",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "450",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_alt_5": {
+                "id": "tv_alt_5",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "850",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_orta_alt_4": {
+                "id": "teaching_desk_orta_alt_4",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "675",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_alt_6": {
+                "id": "tv_alt_6",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "1075",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_orta_alt_5": {
+                "id": "teaching_desk_orta_alt_5",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "825",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_orta_alt_6": {
+                "id": "teaching_desk_orta_alt_6",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "1050",
+                "y": "247",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_alt_1": {
+                "id": "teaching_desk_alt_1",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "75",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_alt_2": {
+                "id": "teaching_desk_alt_2",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "300",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_alt_3": {
+                "id": "teaching_desk_alt_3",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "450",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_orta_alt_1": {
+                "id": "tv_orta_alt_1",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "45",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "teaching_desk_alt_4": {
+                "id": "teaching_desk_alt_4",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "675",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_orta_alt_2": {
+                "id": "tv_orta_alt_2",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "270",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "teaching_desk_alt_5": {
+                "id": "teaching_desk_alt_5",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "825",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "SJlDEutW-": {
+                "id": "SJlDEutW-",
+                "prototype": "items",
+                "type": "cube",
+                "properties": {
+                  "color": "#f48342"
+                },
+                "selected": false,
+                "x": 400,
+                "y": 500,
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_orta_alt_3": {
+                "id": "tv_orta_alt_3",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "425",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "tv_ust_1": {
+                "id": "tv_ust_1",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "40",
+                "y": "670",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_alt_6": {
+                "id": "teaching_desk_alt_6",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "1050",
+                "y": "50",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_orta_alt_4": {
+                "id": "tv_orta_alt_4",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "640",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "tv_ust_2": {
+                "id": "tv_ust_2",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "270",
+                "y": "670",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_orta_ust_1": {
+                "id": "teaching_desk_orta_ust_1",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "75",
+                "y": "450",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_orta_alt_5": {
+                "id": "tv_orta_alt_5",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "795",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "tv_ust_3": {
+                "id": "tv_ust_3",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "415",
+                "y": "670",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_orta_ust_2": {
+                "id": "teaching_desk_orta_ust_2",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "300",
+                "y": "450",
+                "rotation": 180,
+                "misc": {}
+              },
+              "tv_orta_alt_6": {
+                "id": "tv_orta_alt_6",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "1015",
+                "y": "275",
+                "rotation": 180,
+                "misc": {}
+              },
+              "tv_ust_4": {
+                "id": "tv_ust_4",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "640",
+                "y": "670",
+                "rotation": -180,
+                "misc": {}
+              },
+              "teaching_desk_orta_ust_3": {
+                "id": "teaching_desk_orta_ust_3",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "450",
+                "y": "450",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_ust_5": {
+                "id": "tv_ust_5",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "870",
+                "y": "620",
+                "rotation": 90,
+                "misc": {}
+              },
+              "teaching_desk_orta_ust_4": {
+                "id": "teaching_desk_orta_ust_4",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm",
+                    "_length": "0",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "675",
+                "y": "450",
+                "rotation": -180,
+                "misc": {}
+              },
+              "tv_ust_6": {
+                "id": "tv_ust_6",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "1000",
+                "y": "560",
+                "rotation": 270,
+                "misc": {}
+              },
+              "teaching_desk_ust_1": {
+                "id": "teaching_desk_ust_1",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "75",
+                "y": "648",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_ust_2": {
+                "id": "teaching_desk_ust_2",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "300",
+                "y": "648",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_orta_ust_1": {
+                "id": "tv_orta_ust_1",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "105",
+                "y": "425",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_ust_3": {
+                "id": "teaching_desk_ust_3",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "450",
+                "y": "648",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_orta_ust_2": {
+                "id": "tv_orta_ust_2",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "330",
+                "y": "425",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_ust_4": {
+                "id": "teaching_desk_ust_4",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "675",
+                "y": "648",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_orta_ust_3": {
+                "id": "tv_orta_ust_3",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": 481,
+                "y": 425,
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_ust_5": {
+                "id": "teaching_desk_ust_5",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": 841,
+                "y": 590,
+                "rotation": -90,
+                "misc": {}
+              },
+              "tv_orta_ust_4": {
+                "id": "tv_orta_ust_4",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "710",
+                "y": "425",
+                "rotation": 0,
+                "misc": {}
+              },
+              "teaching_desk_ust_6": {
+                "id": "teaching_desk_ust_6",
+                "prototype": "items",
+                "type": "teaching-post",
+                "properties": {
+                  "altitude": {
+                    "length": 0,
+                    "unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": 1031,
+                "y": 590,
+                "rotation": 90,
+                "misc": {}
+              },
+              "tv_alt_1": {
+                "id": "tv_alt_1",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "105",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              },
+              "tv_alt_2": {
+                "id": "tv_alt_2",
+                "prototype": "items",
+                "type": "tv",
+                "properties": {
+                  "altitude": {
+                    "length": 80,
+                    "_length": "80",
+                    "_unit": "cm"
+                  }
+                },
+                "selected": false,
+                "x": "330",
+                "y": "25",
+                "rotation": 0,
+                "misc": {}
+              }
+            },
+            "selected": {
+              "vertices": [],
+              "lines": [],
+              "holes": [],
+              "areas": [],
+              "items": []
+            }
+          }
+        },
+        "guides": {
+          "h1": {
+            "id": "h1",
+            "type": "horizontal-streak",
+            "properties": {
+              "step": 20,
+              "colors": [
+                "#808080",
+                "#ddd",
+                "#ddd",
+                "#ddd",
+                "#ddd"
+              ]
+            }
+          },
+          "v1": {
+            "id": "v1",
+            "type": "vertical-streak",
+            "properties": {
+              "step": 20,
+              "colors": [
+                "#808080",
+                "#ddd",
+                "#ddd",
+                "#ddd",
+                "#ddd"
+              ]
+            }
+          }
+        },
+        "selectedLayer": "layer-1",
+        "width": 1125,
+        "height": 700,
+        "meta": {}
+      }
+    ],
+    "catalog": {
+      "ready": false,
+      "elements": {}
+    },
+    "viewer2D": {},
+    "snapElements": [],
+    "activeSnapElement": null,
+    "drawingSupport": {},
+    "draggingSupport": {},
+    "rotatingSupport": {},
+    "misc": {}
+  }
+}

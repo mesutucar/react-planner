@@ -20,8 +20,8 @@ export default function (width, height, guide) {
   for (let i = 0; i <= height; i += step) {
 
     let geometry = new Three.Geometry();
-    geometry.vertices.push(new Three.Vector3(0, 0, -i));
-    geometry.vertices.push(new Three.Vector3(width, 0, -i));
+    geometry.vertices.push(new Three.Vector3(0, -5, -i));
+    geometry.vertices.push(new Three.Vector3(width,-5, -i));
     let color = colors.get(counter % colors.size);
     let material = new Three.LineBasicMaterial({color});
 

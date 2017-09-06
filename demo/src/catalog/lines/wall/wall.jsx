@@ -35,6 +35,19 @@ let textures = {
       normalScaleY: 0.4,
     }
   },
+  greenFence: {
+    name:'Green Fence',
+    uri: require('./textures/green_fence.png'),
+    lengthRepeatScale: 0.01,
+    heightRepeatScale: 0.01,
+    normal: {
+      uri: require('./textures/green_fence.png'),
+      lengthRepeatScale: 0.01,
+      heightRepeatScale: 0.01,
+      normalScaleX: 0.4,
+      normalScaleY: 0.4,
+    }
+  }
 };
 
 export default ElementsFactories.WallFactory("wall", info, textures)

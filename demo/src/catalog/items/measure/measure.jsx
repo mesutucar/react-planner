@@ -76,10 +76,10 @@ export default {
 
     mesh.position.y = newAltitude + 5;
 
-    var textToDisplay = "Uzaklık: " + element.properties.get('distance');
+    var textToDisplay = "Uzaklık: " + element.properties.get('distance') + "cm";
     var spritey = makeTextSprite(textToDisplay,
       { fontsize: 24, borderColor: {r:0, g:192, b:0, a:1.0}, backgroundColor: {r:172, g:255, b:172, a:0.8} } );
-    //spritey.position.set(-85,105,55);
+    spritey.position.set(10, 25, 0);
 
     mesh.add(spritey);
 

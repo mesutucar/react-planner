@@ -1,15 +1,16 @@
-const localStorage = window.hasOwnProperty('localStorage') ? window.localStorage : false;
+//const localStorage = window.hasOwnProperty('localStorage') ? window.localStorage : false;
 import {loadProject} from '../actions/project-actions';
+var _constants = require('../constants');
 
 const TIMEOUT_DELAY = 1000;
 
 let timeout = null;
 let projectLoaded = false;
-let thisisdevelopment = false;
+let thisisdevelopment = true;
 
 export default function autosave(autosaveKey, delay) {
 
-  console.log("this is autosave. autosaveKey: ", autosaveKey, "localStorage: ", localStorage);
+  //console.log("this is autosave. autosaveKey: ", autosaveKey, "localStorage: ", localStorage);
 
   return (store, stateExtractor) => {
 
@@ -21,7 +22,8 @@ export default function autosave(autosaveKey, delay) {
     //revert mesut: bu initial update isini yapiyor...
     //if (localStorage.getItem(autosaveKey) !== null) {
       console.log("this is autosave.revert");
-      let json = fetch(`http://localhost:8999/tekno_1_1_scene`)
+      let json = fetch(_constants.DATA_PATH)
+      //let json = fetch(`http://localhost:8999/meskun_mahal_scene`)
         .then(function(response) {
           return response.json()
         }).then(function(json) {
@@ -47,7 +49,8 @@ export default function autosave(autosaveKey, delay) {
           //localStorage.setItem(autosaveKey, json);
 
           if (projectLoaded) {
-            fetch('http://localhost:8999/tekno_1_1_scene', {
+            fetch(_constants.DATA_PATH, {
+            //fetch('http://localhost:8999/meskun_mahal_scene', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json'
@@ -62,12 +65,13 @@ export default function autosave(autosaveKey, delay) {
       store.subscribe(() => {
         if (timeout) clearTimeout(timeout);
         timeout = setTimeout(() => {
-          console.log("this is autosave.revert");
-          let json = fetch(`http://localhost:8999/tekno_1_1_scene`)
+          let json = fetch(_constants.DATA_PATH)
             .then(function(response) {
               return response.json()
             }).then(function(json) {
-              store.dispatch(loadProject(json));
+              //let state = stateExtractor(store.getState());
+              //if (JSON.stringify(json) != JSON.stringify(state.sceneHistory.last()))
+                store.dispatch(loadProject(json));
             }).catch(function(ex) {
               console.log('parsing failed', ex)
             });

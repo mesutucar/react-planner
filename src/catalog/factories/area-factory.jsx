@@ -3,6 +3,8 @@ import React from 'react';
 
 export default function AreaFactory(name, info, textures) {
 
+  let areaDepth = -5;
+
   let areaElement = {
     name,
     prototype: "areas",
@@ -24,6 +26,7 @@ export default function AreaFactory(name, info, textures) {
     render2D: function (element, layer, scene) {
       let path = "";
       let first = true;
+      areaDepth = -5; // Mesut: reset area depth
 
       element.vertices.valueSeq()
         .map(vertexID => layer.vertices.get(vertexID))
@@ -38,7 +41,8 @@ export default function AreaFactory(name, info, textures) {
     },
 
     render3D: function (element, layer, scene) {
-      return createArea(element, layer, scene, textures)
+      areaDepth += 5;
+      return createArea(element, layer, scene, textures, areaDepth)
     },
 
   };

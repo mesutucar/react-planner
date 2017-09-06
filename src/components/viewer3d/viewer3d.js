@@ -275,6 +275,7 @@ export default class Scene3DViewer extends React.Component {
       // MESUT: bu yukaridaki diff libi, misc'lere hatali diff cikariyor ???
       for (let index = 0; index < changedValues.length; ++index) {
         currentChange = changedValues[index];
+        //console.log(currentChange);
         if (currentChange.path.indexOf("misc") == -1) {
           //console.log(currentChange);
           realChanges.push(currentChange);

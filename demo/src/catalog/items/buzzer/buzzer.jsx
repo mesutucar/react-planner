@@ -5,22 +5,22 @@ import React from 'react';
 import {makeTextSprite} from '../../utils/makeTextSprite';
 
 export default {
-  name: "Thermometer",
+  name: "Buzzer",
   prototype: "items",
 
   info: {
-    title: "Thermometer",
-    tag: ['thermometer'],
+    title: "Buzzer",
+    tag: ['buzzer'],
     group: "Sensor",
-    description: "Thermometer",
-    image: require('./thermometer.png')
+    description: "Buzzer",
+    image: require('./buzzer.png')
   },
 
   properties: {
     color: {
       label: "Color",
       type: "color",
-      defaultValue: "#f40b00"
+      defaultValue: "#f4f400"
     },
     altitude: {
       label: "Altitude",
@@ -30,16 +30,12 @@ export default {
         unit: 'cm'
       }
     },
-    temperature: {
-      label: "Temperature",
-      type: "number",
-      defaultValue: 0
-    },
-    humidity: {
-      label: "Humidity",
-      type: "number",
-      defaultValue: 0
-    },
+    isBuzzing: {
+      label: "Klima",
+      actionName: "Aç / Kapa",
+      type: "toggle",
+      defaultValue: false
+    }
   },
 
   render2D: (element, layer, scene) => {
@@ -74,7 +70,7 @@ export default {
       mesh.add(box);
     }
     else {
-      let box = new BoxHelper(mesh, '#b10022');
+      let box = new BoxHelper(mesh, '#d7d700');
       box.material.linewidth = 1;
       mesh.add(box);
     }
@@ -83,9 +79,9 @@ export default {
 
     console.log("**** ", element.properties);
 
-    var textToDisplay = "Sıcaklık: " + element.properties.get('temperature') + " - Nem: " + element.properties.get('humidity');
+    var textToDisplay = "Klima " + (element.properties.get('isBuzzing') ? "Açık" : "Kapalı");
     var spritey = makeTextSprite(textToDisplay,
-      { fontsize: 24, borderColor: {r:255, g:0, b:0, a:1.0}, backgroundColor: {r:255, g:100, b:100, a:0.8} } );
+      { fontsize: 24, borderColor: {r:215, g:215, b:0, a:1.0}, backgroundColor: {r:244, g:244, b:0, a:0.8} } );
     spritey.position.set(10, 25, 0);
 
     mesh.add(spritey);
@@ -94,3 +90,6 @@ export default {
   }
 
 };
+
+
+
